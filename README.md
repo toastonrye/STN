@@ -7,12 +7,12 @@ https://www.survivethenights.net/changelog
 ## Item IDs
 ### List not fully accurate, work in progress...
 
-<pre> <details> <summary>Give Item Commands</summary> 
-This sets user to admin rank and gives
+<details><summary>Give Item Commands</summary> 
+<pre>This sets user to admin rank and gives
 ``` /setrank toastonrye 2
 	/give 1001
 	/give 5507:2 ```
-</details> </pre>
+</pre></details>
 
 <details><summary>Click HERE to expand item id list.</summary>
 
