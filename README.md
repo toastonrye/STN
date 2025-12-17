@@ -196,6 +196,7 @@ https://www.survivethenights.net/changelog
 800:0,  Drop_Lettuce
 801:0,  Drop_Watermelon
 802:0,  Drop_Pineapple
+</details>
 <details> <summary><strong>🔫 Weapons (1000–1499)</strong></summary>
 1000:0,  Drop_M-357
 1001:0,  Drop_ARG15
@@ -212,6 +213,7 @@ https://www.survivethenights.net/changelog
 1012:0,  Drop_Crossbow
 1013:0,  Drop_FlareGun
 1014:0,  Drop_MK4
+</details>
 <details> <summary><strong>🛠 Tools & Melee (1500–1999)</strong></summary>
 1500:0,  Drop_Axe
 1501:0,  Drop_BeamSword
@@ -232,6 +234,7 @@ https://www.survivethenights.net/changelog
 1519:0,  Drop_BaseballBat_Nail
 1520:0,  Drop_Shovel
 1999:0,  Drop_WaterContainer
+</details>
 <details> <summary><strong>🧰 Tools & Utilities (2000–2999)</strong></summary>
 2000:0,  Drop_CanOpener
 2001:0,  Drop_DrawKnife
@@ -350,6 +353,7 @@ https://www.survivethenights.net/changelog
 2605:0,  Drop_Attachment_Arg15_Mag
 2606:0,  Drop_Keycard_Armory
 2607:0,  Drop_Keycard_Prison
+</details>
 <details> <summary><strong>🏗 Building & Crafting (3000–3999)</strong></summary>
 3000:0,  Drop_BoxOfNails
 3001:0,  Drop_BoxOfScrews
@@ -404,6 +408,7 @@ https://www.survivethenights.net/changelog
 3051:0,  Drop_Plank_Reinforced
 3052:0,  Drop_LockKit_Crafted
 3053:0,  Drop_CombinationLock_Crafted
+</details>
 <details> <summary><strong>🔥 Deployables & Traps (4000–4249)</strong></summary>
 4000:0,  Drop_CementBag
 4001:0,  Drop_Generator
@@ -443,6 +448,7 @@ https://www.survivethenights.net/changelog
 4043:0,  Drop_Barricade_Metal_Fence
 4044:0,  Drop_Barricade_Wood_Fence
 4045:0,  Drop_Barricade_Spikes_Weak
+</details>
 <details> <summary><strong>🚗 Vehicles (4250–4299)</strong></summary>
 4250:0,  Drop_VehicleCricket
 4251:0,  Drop_VehicleRV
@@ -452,6 +458,7 @@ https://www.survivethenights.net/changelog
 4255:0,  Drop_VehicleBuggy
 4256:0,  Drop_VehiclePickup_flatbed
 4257:0,  Drop_PrisonBus
+</details>
 <details> <summary><strong>📦 Ammunition (5500–5599)</strong></summary>
 5500:0,  Drop_9mmAmmoBox
 5501:0,  Drop_12GsgAmmoBox
@@ -462,3 +469,38 @@ https://www.survivethenights.net/changelog
 5506:0,  Drop_308RAmmoBox
 5507:0,  Drop_556RAmmoBox
 5508:0,  Drop_762RAmmoBox
+</details>
+
+## 📦 Ammunition Drops
+
+```text
+5500:0,  Drop_9mmAmmoBox
+5501:0,  Drop_12GsgAmmoBox
+5502:0,  Drop_18GsgAmmoBox
+5503:0,  Drop_20GsgAmmoBox
+5504:0,  Drop_45ACPAmmoBox
+5505:0,  Drop_50AmmoBox
+5506:0,  Drop_308RAmmoBox
+5507:0,  Drop_556RAmmoBox
+5508:0,  Drop_762RAmmoBox
+
+
+📌 Best if this is **reference data** or used for scripting.
+
+---
+
+## 🔸 Compact List (Simple & readable)
+
+```md
+## 📦 Ammunition Drops
+
+- **5500** — Drop_9mmAmmoBox  
+- **5501** — Drop_12GsgAmmoBox  
+- **5502** — Drop_18GsgAmmoBox  
+- **5503** — Drop_20GsgAmmoBox  
+- **5504** — Drop_45ACPAmmoBox  
+- **5505** — Drop_50AmmoBox  
+- **5506** — Drop_308RAmmoBox  
+- **5507** — Drop_556RAmmoBox  
+- **5508** — Drop_762RAmmoBox  
+
