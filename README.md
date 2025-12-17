@@ -1,20 +1,17 @@
-# STN
-Survive the Nights - Personal wiki for the game!
+# STN - Survive the Nights
 
 I'm trying to compile information for myself, to try making scenarios for the game, some of info is not correct.
 
-https://www.survivethenights.net/changelog
 ## Item IDs
 ### List not fully accurate, work in progress...
 
-<details><summary>Give Item Commands</summary> 
-<pre>This sets user to admin rank and gives
+<pre>This sets user to admin rank, gives an ARG15 and 2 boxes of 5.56mm ammo.
 ``` /setrank toastonrye 2
 	/give 1001
 	/give 5507:2 ```
-</pre></details>
+</pre>
 
-<details><summary>Click HERE to expand item id list.</summary>
+<details><summary>ITEM ID List - Click HERE to expand!</summary>
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
@@ -526,5 +523,8 @@ https://www.survivethenights.net/changelog
 </details>
 
 
-Resources
+# Resources
+
+https://www.survivethenights.net/changelog
+
 https://survivethenights.fandom.com/wiki/ItemIDs
