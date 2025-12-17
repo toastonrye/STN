@@ -1,13 +1,21 @@
 # STN - Survive the Nights
 
-I'm trying to compile information for myself, to try making scenarios for the game, some of info is not correct.
+I'm trying to compile some game information for myself, for creating game scenarios.
+
+## Interesting Commands
+
+<pre>
+	/lookup drop (seems to list every item in the game?)
+</pre>
 
 ## Item IDs
-The list is not fully accurate, a work in progress...
+The list is not fully accurate, a work in progress. Some of the item ids are fully disabled, fyi.
 
 <details><summary>ITEM ID List - Click HERE to expand!</summary>
 
-<pre>This sets user to admin rank, gives an ARG15 and 2 boxes of 5.56mm ammo.
+
+<pre>
+This sets user to admin rank, gives an ARG15 and 2 boxes of 5.56mm ammo.
 	/setrank toastonrye 2
 	/give 1001
 	/give 5507 2
