@@ -5,12 +5,19 @@ I'm trying to compile information for myself, to try making scenarios for the ga
 
 https://www.survivethenights.net/changelog
 
-# <details><summary><strong>🥫 Item IDs (expand)</strong></summary>
+# Item IDs
+# <details><summary><strong>(... Click to expand!)</strong></summary>
 
-[Food, Drink & Medical Drops](#itemid-food)
+[Food, Drink & Medical Drops (500–899)](#itemid-food)
+[Weapons (1000–1499)](#itemid-weapon)
+[Tools & Melee (1500–1999)](#itemid-tool)
+[Tools & Utilities (2000–2999)](#itemid-util)
+[Building & Crafting (3000–3999)](#itemid-building)
+[Deployables & Traps (4000–4249)](#itemid-deploy)
+[Vehicles (4250–4299)](#itemid-vehicle)
+[Ammunition (5500–5599)](#itemid-ammo)
 
 <a name="itemid-food"></a> 
-<summary><strong>🍖 Food, Drink & Medical Drops (500–899)</strong></summary>
 
 | ID | Drop ID |
 |----|---------|
@@ -207,8 +214,7 @@ https://www.survivethenights.net/changelog
 | 801 | Drop_Watermelon |
 | 802 | Drop_Pineapple |
 
-
-<summary><strong>🔫 Weapons (1000–1499)</strong></summary>
+<a name="itemid-weapon"></a>
 
 | ID | Drop ID |
 |----|---------|
@@ -228,8 +234,7 @@ https://www.survivethenights.net/changelog
 | 1013 | Drop_FlareGun |
 | 1014 | Drop_MK4 |
 
-
-<summary><strong>🛠 Tools & Melee (1500–1999)</strong></summary>
+<a name="itemid-tool"></a>
 
 | ID | Drop ID |
 |----|---------|
@@ -253,8 +258,7 @@ https://www.survivethenights.net/changelog
 | 1520 | Drop_Shovel |
 | 1999 | Drop_WaterContainer |
 
-
-<summary><strong>🧰 Tools & Utilities (2000–2999)</strong></summary>
+<a name="itemid-util"></a>
 
 | ID | Drop ID |
 |----|---------|
@@ -376,8 +380,7 @@ https://www.survivethenights.net/changelog
 | 2606 | Drop_Keycard_Armory |
 | 2607 | Drop_Keycard_Prison |
 
-
-<summary><strong>🏗 Building & Crafting (3000–3999)</strong></summary>
+<a name="itemid-building"></a>
 
 | ID | Drop ID |
 |----|---------|
@@ -435,8 +438,7 @@ https://www.survivethenights.net/changelog
 | 3052 | Drop_LockKit_Crafted |
 | 3053 | Drop_CombinationLock_Crafted |
 
-
-<summary><strong>🔥 Deployables & Traps (4000–4249)</strong></summary>
+<a name="itemid-deployable"></a>
 
 | ID   | Drop ID |
 |------|---------|
@@ -479,8 +481,7 @@ https://www.survivethenights.net/changelog
 | 4044 | Drop_Barricade_Wood_Fence |
 | 4045 | Drop_Barricade_Spikes_Weak |
 
-
-<summary><strong>🚗 Vehicles (4250–4299)</strong></summary>
+<a name="itemid-vehicle"></a>
 
 | ID   | Drop ID |
 |------|---------|
@@ -493,8 +494,7 @@ https://www.survivethenights.net/changelog
 | 4256 | Drop_VehiclePickup_flatbed |
 | 4257 | Drop_PrisonBus |
 
-
-<summary><strong>📦 Ammunition (5500–5599)</strong></summary>
+<a name="itemid-ammo"></a>
 
 | ID   | Drop ID |
 |------|---------|
