@@ -471,26 +471,6 @@ https://www.survivethenights.net/changelog
 5508:0,  Drop_762RAmmoBox
 </details>
 
-## 📦 Ammunition Drops
-
-```text
-5500:0,  Drop_9mmAmmoBox
-5501:0,  Drop_12GsgAmmoBox
-5502:0,  Drop_18GsgAmmoBox
-5503:0,  Drop_20GsgAmmoBox
-5504:0,  Drop_45ACPAmmoBox
-5505:0,  Drop_50AmmoBox
-5506:0,  Drop_308RAmmoBox
-5507:0,  Drop_556RAmmoBox
-5508:0,  Drop_762RAmmoBox
-
-
-📌 Best if this is **reference data** or used for scripting.
-
----
-
-## 🔸 Compact List (Simple & readable)
-
 ```md
 ## 📦 Ammunition Drops
 
@@ -504,3 +484,4 @@ https://www.survivethenights.net/changelog
 - **5507** — Drop_556RAmmoBox  
 - **5508** — Drop_762RAmmoBox  
 
+Resources
