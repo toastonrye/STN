@@ -3,15 +3,15 @@
 I'm trying to compile information for myself, to try making scenarios for the game, some of info is not correct.
 
 ## Item IDs
-### List not fully accurate, work in progress...
+List not fully accurate, work in progress...
+
+<details><summary>**ITEM ID List - Click HERE to expand!**</summary>
 
 <pre>This sets user to admin rank, gives an ARG15 and 2 boxes of 5.56mm ammo.
 ``` /setrank toastonrye 2
 	/give 1001
 	/give 5507:2 ```
 </pre>
-
-<details><summary>ITEM ID List - Click HERE to expand!</summary>
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
