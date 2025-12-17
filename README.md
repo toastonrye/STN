@@ -5,9 +5,9 @@ I'm trying to compile information for myself, to try making scenarios for the ga
 
 https://www.survivethenights.net/changelog
 
-<details><summary><strong>🥫 Item IDs (expand)</strong></summary>
+# <details><summary><strong>🥫 Item IDs (expand)</strong></summary>
 
-[Food, Drink & Medical Drops(#itemid-food)
+[Food, Drink & Medical Drops](#itemid-food)
 
 <a name="itemid-food"></a> 
 <summary><strong>🍖 Food, Drink & Medical Drops (500–899)</strong></summary>
