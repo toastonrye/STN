@@ -6,7 +6,7 @@ I'm trying to compile information for myself, to try making scenarios for the ga
 https://www.survivethenights.net/changelog
 
 # <summary><strong>Item IDs</strong></summary>
-# <details>(... Click to expand! WIP Not fully accurate.)
+<details>(... Click to expand! WIP Not fully accurate.)
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
