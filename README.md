@@ -8,6 +8,7 @@ https://www.survivethenights.net/changelog
 Item IDs
 <details> <summary><strong>🥫 Food & Drink (500–899)</strong></summary>
 ## 🍖 Food, Drink & Medical Drops
+
 | ID | Meta | Drop ID |
 |----|------|---------|
 | 500 | 0 | Drop_Drink_WaterBottle_Dirty |
@@ -202,6 +203,7 @@ Item IDs
 | 800 | 0 | Drop_Lettuce |
 | 801 | 0 | Drop_Watermelon |
 | 802 | 0 | Drop_Pineapple |
+
 </details>
 <details> <summary><strong>🔫 Weapons (1000–1499)</strong></summary>
 1000:0,  Drop_M-357
