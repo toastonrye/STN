@@ -1,201 +1,207 @@
 # STN
 Survive the Nights - Personal wiki for the game!
 
+I'm trying to compile information for myself, to try making scenarios for the game, some of info is not correct.
+
 https://www.survivethenights.net/changelog
 
+Item IDs
 <details> <summary><strong>🥫 Food & Drink (500–899)</strong></summary>
-500:0,  Drop_Drink_WaterBottle_Dirty
-501:0,  Drop_MRE
-502:0,  Drop_Pot_Water_Clean
-503:0,  Drop_Medical_Firstaid
-504:0,  Drop_Medical_GauzePad
-505:0,  Drop_Medical_GauzeWrap
-506:0,  Drop_Drink_WaterBottle_Clean
-507:0,  Drop_Medical_Bandage
-508:0,  Drop_Box_Ramen
-509:0,  Drop_Box_ToasterPastry
-510:0,  Drop_Box_BurgerHelper
-511:0,  Drop_Box_Cupcakes
-512:0,  Drop_Box_ChocolateCereal
-513:0,  Drop_Box_Crackers
-514:0,  Drop_Box_FlakeCereal
-515:0,  Drop_Box_DryMilk
-516:0,  Drop_Box_GranolaBars
-517:0,  Drop_Box_JaffaCakes
-518:0,  Drop_Berry_Large_Green
-519:0,  Drop_Box_InstantPotato
-520:0,  Drop_Box_Rice
-521:0,  Drop_Box_RicePuffCereal
-522:0,  Drop_Box_WheatCereal
-523:0,  Drop_CanteenStrongEnergy
-524:0,  Drop_Can_BakedBeans
-525:0,  Drop_Can_BeefStew
-526:0,  Drop_Can_Beets
-527:0,  Drop_CanteenWeakEnergy
-528:0,  Drop_Can_ChickenNoodles
-529:0,  Drop_Can_ClamChowder
-530:0,  Drop_Can_Greenbeans
-531:0,  Drop_Can_JumboSausage
-532:0,  Drop_Can_MixedFruit
-533:0,  Drop_Can_Mushrooms
-534:0,  Drop_Can_Ravioli
-535:0,  Drop_Can_Sausage
-536:0,  Drop_Can_Spaghetti
-537:0,  Drop_Can_TomatoSoup
-538:0,  Drop_Meat_Chicken_Fresh
-539:0,  Drop_Meat_Chicken_Rancid
-540:0,  Drop_Meat_Rabbit_Fresh
-541:0,  Drop_Meat_Rabbit_Rancid
-542:0,  Drop_Meat_Squirrel_Fresh
-543:0,  Drop_Meat_Squirrel_Rancid
-544:0,  Drop_Meat_Rat_Fresh
-545:0,  Drop_Meat_Rat_Rancid
-546:0,  Drop_Meat_Dog_Fresh
-547:0,  Drop_Meat_Chicken_Cooked
-548:0,  Drop_Meat_Dog_Rancid
-549:0,  Drop_Meat_Rabbit_Cooked
-550:0,  Drop_Meat_Rat_Cooked
-551:0,  Drop_Meat_Squirrel_Cooked
-556:0,  Drop_Meat_Chicken_Cooked_Rancid
-559:0,  Drop_Meat_Dog_Cooked_Rancid
-564:0,  Drop_Can_Cat_Food_Cooked
-565:0,  Drop_Meat_Rat_Cooked_Rancid
-566:0,  Drop_Meat_Rabbit_Cooked_Rancid
-567:0,  Drop_Can_DogFood_Cooked
-568:0,  Drop_Can_MixedFruit_Cooked
-569:0,  Drop_Meat_Squirrel_Cooked_Rancid
-570:0,  Drop_Meat_Cat_Cooked
-571:0,  Drop_Can_Pineapple_Cooked
-572:0,  Drop_Meat_Cat_Cooked_Rancid
-574:0,  Drop_Meat_Cat_Fresh
-575:0,  Drop_Meat_Cat_Rancid
-577:0,  Drop_Meat_Venison_Cooked
-579:0,  Drop_Meat_Venison_Cooked_Rancid
-581:0,  Drop_Meat_Dog_Cooked
-585:0,  Drop_Meat_Venison_Fresh
-586:0,  Drop_Meat_Venison_Rancid
-587:0,  Drop_Berry_Small_Green
-588:0,  Drop_Berry_Large_Red
-589:0,  Drop_Berry_Small_Red
-590:0,  Drop_Medical_GauzePad_Treated
-591:0,  Drop_Meat_RatBurger_Cooked
-592:0,  Drop_Meat_RatBurger_Cooked_Rancid
-595:0,  Drop_Meat_RatBurger_Fresh
-596:0,  Drop_Meat_RatBurger_Rancid
-598:0,  Drop_Meat_Raccoon_Cooked
-600:0,  Drop_Meat_Raccoon_Cooked_Rancid
-602:0,  Drop_Meat_Raccoon_Fresh
-603:0,  Drop_Meat_Raccoon_Rancid
-605:0,  Drop_Meat_Fox_Cooked
-608:0,  Drop_Meat_Fox_Fresh
-609:0,  Drop_Meat_Fox_Rancid
-610:0,  Drop_Medical_GauzeWrap_Treated
-611:0,  Drop_Medical_Bandage_Treated
-612:0,  Drop_Meat_Fox_Cooked_Rancid
-613:0,  Drop_Can_BakedBeans_Cooked
-614:0,  Drop_Can_BeefStew_Cooked
-615:0,  Drop_Can_Beets_Cooked
-617:0,  Drop_Can_ChickenNoodles_Cooked
-618:0,  Drop_Can_ClamChowder_Cooked
-619:0,  Drop_Can_Greenbeans_Cooked
-620:0,  Drop_Can_JumboSausage_Cooked
-622:0,  Drop_Can_Mushrooms_Cooked
-623:0,  Drop_Can_Ravioli_Cooked
-624:0,  Drop_Can_Sausage_Cooked
-625:0,  Drop_Can_Spaghetti_Cooked
-626:0,  Drop_Can_TomatoSoup_Cooked
-627:0,  Drop_Drink_DryMilk
-633:0,  Drop_Pot_BurgerHelper_Cooked
-634:0,  Drop_Pot_BurgerHelper
-635:0,  Drop_Pot_InstantPotatoes
-637:0,  Drop_Pot_Ramen
-641:0,  Drop_Pot_Rice_Cooked
-642:0,  Drop_Pot_Rice
-644:0,  Drop_Pot_Ramen_Cooked
-649:0,  Drop_Medical_PillBottle
-651:0,  Drop_Can_BabyPotatoes
-652:0,  Drop_Can_BabyPotatoes_Cooked
-653:0,  Drop_Can_Carrots_Cooked
-654:0,  Drop_Can_Carrots
-655:0,  Drop_Can_Cat_Food
-656:0,  Drop_Can_Corn
-658:0,  Drop_Can_Pineapple
-660:0,  Drop_Can_Salmon
-661:0,  Drop_Can_Salmon_Cooked
-662:0,  Drop_Can_Sardines
-663:0,  Drop_Can_Sardines_Cooked
-664:0,  Drop_Can_Spinach
-665:0,  Drop_Can_Spinach_Cooked
-666:0,  Drop_Can_Tuna
-668:0,  Drop_Can_DogFood
-669:0,  Drop_Box_Oats
-670:0,  Drop_Pot_Oats
-671:0,  Drop_Pot_Oats_Cooked
-674:0,  Drop_Can_Corn_Cooked
-675:0,  Drop_Pot_BakedBeans
-676:0,  Drop_Pot_BakedBeans_Cooked
-679:0,  Drop_Pot_BabyPotatoes
-680:0,  Drop_Pot_BabyPotatoes_Cooked
-683:0,  Drop_Pot_BeefStew
-684:0,  Drop_Pot_BeefStew_Cooked
-687:0,  Drop_Pot_Beets
-688:0,  Drop_Pot_Beets_Cooked
-695:0,  Drop_Pot_Carrots
-696:0,  Drop_Pot_Carrots_Cooked
-703:0,  Drop_Pot_ChickenNoodle
-704:0,  Drop_Pot_ChickenNoodle_Cooked
-707:0,  Drop_Pot_ClamChowder
-708:0,  Drop_Pot_ClamChowder_Cooked
-711:0,  Drop_Pot_Corn
-712:0,  Drop_Pot_Corn_Cooked
-719:0,  Drop_Pot_Greenbeans
-720:0,  Drop_Pot_Greenbeans_Cooked
-723:0,  Drop_Pot_JumboSausage
-724:0,  Drop_Pot_InstantPotatoes_Cooked
-724:0,  Drop_Pot_JumboSausage_Cooked
-727:0,  Drop_Pot_Mushrooms
-728:0,  Drop_Pot_Mushrooms_Cooked
-731:0,  Drop_Pot_Ravioli
-732:0,  Drop_Pot_Ravioli_Cooked
-735:0,  Drop_Pot_Salmon
-736:0,  Drop_Pot_Salmon_Cooked
-739:0,  Drop_Pot_Sardines
-740:0,  Drop_Pot_Sardines_Cooked
-743:0,  Drop_Pot_Sausage
-744:0,  Drop_Pot_Sausage_Cooked
-747:0,  Drop_Pot_Spaghetti
-748:0,  Drop_Pot_Spaghetti_Cooked
-751:0,  Drop_Pot_Spinach
-752:0,  Drop_Pot_Spinach_Cooked
-755:0,  Drop_Pot_TomatoSoup
-756:0,  Drop_Pot_TomatoSoup_Cooked
-757:0,  Drop_Pot_Water_Dirty
-760:0,  Drop_Drink_EnergyBottle_Strong
-761:0,  Drop_Drink_EnergyBottle_Weak
-777:0,  Drop_Pot_Burned
-778:0,  Drop_Meat_Burned
-779:0,  Drop_CanteenCleanWater
-780:0,  Drop_CanteenDirtyWater
-782:0,  Drop_CanteenDirtyCloth
-783:0,  Drop_CanteenCleanCloth
-784:0,  Drop_veg_Potato
-785:0,  Drop_veg_Carrot
-786:0,  Drop_veg_Tomato
-787:0,  Drop_veg_Strawberries
-788:0,  Drop_CookingPot
-789:0,  Drop_Mushroom
-790:0,  Drop_veg_Herbs
-791:0,  Drop_Apple
-792:0,  Drop_Banana
-793:0,  Drop_Cauliflower
-794:0,  Drop_Garlic
-795:0,  Drop_Lemon
-797:0,  Drop_veg_Onion
-798:0,  Drop_Orange
-799:0,  Drop_Pumpkin
-800:0,  Drop_Lettuce
-801:0,  Drop_Watermelon
-802:0,  Drop_Pineapple
+## 🍖 Food, Drink & Medical Drops
+| ID | Meta | Drop ID |
+|----|------|---------|
+| 500 | 0 | Drop_Drink_WaterBottle_Dirty |
+| 501 | 0 | Drop_MRE |
+| 502 | 0 | Drop_Pot_Water_Clean |
+| 503 | 0 | Drop_Medical_Firstaid |
+| 504 | 0 | Drop_Medical_GauzePad |
+| 505 | 0 | Drop_Medical_GauzeWrap |
+| 506 | 0 | Drop_Drink_WaterBottle_Clean |
+| 507 | 0 | Drop_Medical_Bandage |
+| 508 | 0 | Drop_Box_Ramen |
+| 509 | 0 | Drop_Box_ToasterPastry |
+| 510 | 0 | Drop_Box_BurgerHelper |
+| 511 | 0 | Drop_Box_Cupcakes |
+| 512 | 0 | Drop_Box_ChocolateCereal |
+| 513 | 0 | Drop_Box_Crackers |
+| 514 | 0 | Drop_Box_FlakeCereal |
+| 515 | 0 | Drop_Box_DryMilk |
+| 516 | 0 | Drop_Box_GranolaBars |
+| 517 | 0 | Drop_Box_JaffaCakes |
+| 518 | 0 | Drop_Berry_Large_Green |
+| 519 | 0 | Drop_Box_InstantPotato |
+| 520 | 0 | Drop_Box_Rice |
+| 521 | 0 | Drop_Box_RicePuffCereal |
+| 522 | 0 | Drop_Box_WheatCereal |
+| 523 | 0 | Drop_CanteenStrongEnergy |
+| 524 | 0 | Drop_Can_BakedBeans |
+| 525 | 0 | Drop_Can_BeefStew |
+| 526 | 0 | Drop_Can_Beets |
+| 527 | 0 | Drop_CanteenWeakEnergy |
+| 528 | 0 | Drop_Can_ChickenNoodles |
+| 529 | 0 | Drop_Can_ClamChowder |
+| 530 | 0 | Drop_Can_Greenbeans |
+| 531 | 0 | Drop_Can_JumboSausage |
+| 532 | 0 | Drop_Can_MixedFruit |
+| 533 | 0 | Drop_Can_Mushrooms |
+| 534 | 0 | Drop_Can_Ravioli |
+| 535 | 0 | Drop_Can_Sausage |
+| 536 | 0 | Drop_Can_Spaghetti |
+| 537 | 0 | Drop_Can_TomatoSoup |
+| 538 | 0 | Drop_Meat_Chicken_Fresh |
+| 539 | 0 | Drop_Meat_Chicken_Rancid |
+| 540 | 0 | Drop_Meat_Rabbit_Fresh |
+| 541 | 0 | Drop_Meat_Rabbit_Rancid |
+| 542 | 0 | Drop_Meat_Squirrel_Fresh |
+| 543 | 0 | Drop_Meat_Squirrel_Rancid |
+| 544 | 0 | Drop_Meat_Rat_Fresh |
+| 545 | 0 | Drop_Meat_Rat_Rancid |
+| 546 | 0 | Drop_Meat_Dog_Fresh |
+| 547 | 0 | Drop_Meat_Chicken_Cooked |
+| 548 | 0 | Drop_Meat_Dog_Rancid |
+| 549 | 0 | Drop_Meat_Rabbit_Cooked |
+| 550 | 0 | Drop_Meat_Rat_Cooked |
+| 551 | 0 | Drop_Meat_Squirrel_Cooked |
+| 556 | 0 | Drop_Meat_Chicken_Cooked_Rancid |
+| 559 | 0 | Drop_Meat_Dog_Cooked_Rancid |
+| 564 | 0 | Drop_Can_Cat_Food_Cooked |
+| 565 | 0 | Drop_Meat_Rat_Cooked_Rancid |
+| 566 | 0 | Drop_Meat_Rabbit_Cooked_Rancid |
+| 567 | 0 | Drop_Can_DogFood_Cooked |
+| 568 | 0 | Drop_Can_MixedFruit_Cooked |
+| 569 | 0 | Drop_Meat_Squirrel_Cooked_Rancid |
+| 570 | 0 | Drop_Meat_Cat_Cooked |
+| 571 | 0 | Drop_Can_Pineapple_Cooked |
+| 572 | 0 | Drop_Meat_Cat_Cooked_Rancid |
+| 574 | 0 | Drop_Meat_Cat_Fresh |
+| 575 | 0 | Drop_Meat_Cat_Rancid |
+| 577 | 0 | Drop_Meat_Venison_Cooked |
+| 579 | 0 | Drop_Meat_Venison_Cooked_Rancid |
+| 581 | 0 | Drop_Meat_Dog_Cooked |
+| 585 | 0 | Drop_Meat_Venison_Fresh |
+| 586 | 0 | Drop_Meat_Venison_Rancid |
+| 587 | 0 | Drop_Berry_Small_Green |
+| 588 | 0 | Drop_Berry_Large_Red |
+| 589 | 0 | Drop_Berry_Small_Red |
+| 590 | 0 | Drop_Medical_GauzePad_Treated |
+| 591 | 0 | Drop_Meat_RatBurger_Cooked |
+| 592 | 0 | Drop_Meat_RatBurger_Cooked_Rancid |
+| 595 | 0 | Drop_Meat_RatBurger_Fresh |
+| 596 | 0 | Drop_Meat_RatBurger_Rancid |
+| 598 | 0 | Drop_Meat_Raccoon_Cooked |
+| 600 | 0 | Drop_Meat_Raccoon_Cooked_Rancid |
+| 602 | 0 | Drop_Meat_Raccoon_Fresh |
+| 603 | 0 | Drop_Meat_Raccoon_Rancid |
+| 605 | 0 | Drop_Meat_Fox_Cooked |
+| 608 | 0 | Drop_Meat_Fox_Fresh |
+| 609 | 0 | Drop_Meat_Fox_Rancid |
+| 610 | 0 | Drop_Medical_GauzeWrap_Treated |
+| 611 | 0 | Drop_Medical_Bandage_Treated |
+| 612 | 0 | Drop_Meat_Fox_Cooked_Rancid |
+| 613 | 0 | Drop_Can_BakedBeans_Cooked |
+| 614 | 0 | Drop_Can_BeefStew_Cooked |
+| 615 | 0 | Drop_Can_Beets_Cooked |
+| 617 | 0 | Drop_Can_ChickenNoodles_Cooked |
+| 618 | 0 | Drop_Can_ClamChowder_Cooked |
+| 619 | 0 | Drop_Can_Greenbeans_Cooked |
+| 620 | 0 | Drop_Can_JumboSausage_Cooked |
+| 622 | 0 | Drop_Can_Mushrooms_Cooked |
+| 623 | 0 | Drop_Can_Ravioli_Cooked |
+| 624 | 0 | Drop_Can_Sausage_Cooked |
+| 625 | 0 | Drop_Can_Spaghetti_Cooked |
+| 626 | 0 | Drop_Can_TomatoSoup_Cooked |
+| 627 | 0 | Drop_Drink_DryMilk |
+| 633 | 0 | Drop_Pot_BurgerHelper_Cooked |
+| 634 | 0 | Drop_Pot_BurgerHelper |
+| 635 | 0 | Drop_Pot_InstantPotatoes |
+| 637 | 0 | Drop_Pot_Ramen |
+| 641 | 0 | Drop_Pot_Rice_Cooked |
+| 642 | 0 | Drop_Pot_Rice |
+| 644 | 0 | Drop_Pot_Ramen_Cooked |
+| 649 | 0 | Drop_Medical_PillBottle |
+| 651 | 0 | Drop_Can_BabyPotatoes |
+| 652 | 0 | Drop_Can_BabyPotatoes_Cooked |
+| 653 | 0 | Drop_Can_Carrots_Cooked |
+| 654 | 0 | Drop_Can_Carrots |
+| 655 | 0 | Drop_Can_Cat_Food |
+| 656 | 0 | Drop_Can_Corn |
+| 658 | 0 | Drop_Can_Pineapple |
+| 660 | 0 | Drop_Can_Salmon |
+| 661 | 0 | Drop_Can_Salmon_Cooked |
+| 662 | 0 | Drop_Can_Sardines |
+| 663 | 0 | Drop_Can_Sardines_Cooked |
+| 664 | 0 | Drop_Can_Spinach |
+| 665 | 0 | Drop_Can_Spinach_Cooked |
+| 666 | 0 | Drop_Can_Tuna |
+| 668 | 0 | Drop_Can_DogFood |
+| 669 | 0 | Drop_Box_Oats |
+| 670 | 0 | Drop_Pot_Oats |
+| 671 | 0 | Drop_Pot_Oats_Cooked |
+| 674 | 0 | Drop_Can_Corn_Cooked |
+| 675 | 0 | Drop_Pot_BakedBeans |
+| 676 | 0 | Drop_Pot_BakedBeans_Cooked |
+| 679 | 0 | Drop_Pot_BabyPotatoes |
+| 680 | 0 | Drop_Pot_BabyPotatoes_Cooked |
+| 683 | 0 | Drop_Pot_BeefStew |
+| 684 | 0 | Drop_Pot_BeefStew_Cooked |
+| 687 | 0 | Drop_Pot_Beets |
+| 688 | 0 | Drop_Pot_Beets_Cooked |
+| 695 | 0 | Drop_Pot_Carrots |
+| 696 | 0 | Drop_Pot_Carrots_Cooked |
+| 703 | 0 | Drop_Pot_ChickenNoodle |
+| 704 | 0 | Drop_Pot_ChickenNoodle_Cooked |
+| 707 | 0 | Drop_Pot_ClamChowder |
+| 708 | 0 | Drop_Pot_ClamChowder_Cooked |
+| 711 | 0 | Drop_Pot_Corn |
+| 712 | 0 | Drop_Pot_Corn_Cooked |
+| 719 | 0 | Drop_Pot_Greenbeans |
+| 720 | 0 | Drop_Pot_Greenbeans_Cooked |
+| 723 | 0 | Drop_Pot_JumboSausage |
+| 724 | 0 | Drop_Pot_InstantPotatoes_Cooked |
+| 724 | 0 | Drop_Pot_JumboSausage_Cooked |
+| 727 | 0 | Drop_Pot_Mushrooms |
+| 728 | 0 | Drop_Pot_Mushrooms_Cooked |
+| 731 | 0 | Drop_Pot_Ravioli |
+| 732 | 0 | Drop_Pot_Ravioli_Cooked |
+| 735 | 0 | Drop_Pot_Salmon |
+| 736 | 0 | Drop_Pot_Salmon_Cooked |
+| 739 | 0 | Drop_Pot_Sardines |
+| 740 | 0 | Drop_Pot_Sardines_Cooked |
+| 743 | 0 | Drop_Pot_Sausage |
+| 744 | 0 | Drop_Pot_Sausage_Cooked |
+| 747 | 0 | Drop_Pot_Spaghetti |
+| 748 | 0 | Drop_Pot_Spaghetti_Cooked |
+| 751 | 0 | Drop_Pot_Spinach |
+| 752 | 0 | Drop_Pot_Spinach_Cooked |
+| 755 | 0 | Drop_Pot_TomatoSoup |
+| 756 | 0 | Drop_Pot_TomatoSoup_Cooked |
+| 757 | 0 | Drop_Pot_Water_Dirty |
+| 760 | 0 | Drop_Drink_EnergyBottle_Strong |
+| 761 | 0 | Drop_Drink_EnergyBottle_Weak |
+| 777 | 0 | Drop_Pot_Burned |
+| 778 | 0 | Drop_Meat_Burned |
+| 779 | 0 | Drop_CanteenCleanWater |
+| 780 | 0 | Drop_CanteenDirtyWater |
+| 782 | 0 | Drop_CanteenDirtyCloth |
+| 783 | 0 | Drop_CanteenCleanCloth |
+| 784 | 0 | Drop_veg_Potato |
+| 785 | 0 | Drop_veg_Carrot |
+| 786 | 0 | Drop_veg_Tomato |
+| 787 | 0 | Drop_veg_Strawberries |
+| 788 | 0 | Drop_CookingPot |
+| 789 | 0 | Drop_Mushroom |
+| 790 | 0 | Drop_veg_Herbs |
+| 791 | 0 | Drop_Apple |
+| 792 | 0 | Drop_Banana |
+| 793 | 0 | Drop_Cauliflower |
+| 794 | 0 | Drop_Garlic |
+| 795 | 0 | Drop_Lemon |
+| 797 | 0 | Drop_veg_Onion |
+| 798 | 0 | Drop_Orange |
+| 799 | 0 | Drop_Pumpkin |
+| 800 | 0 | Drop_Lettuce |
+| 801 | 0 | Drop_Watermelon |
+| 802 | 0 | Drop_Pineapple |
 </details>
 <details> <summary><strong>🔫 Weapons (1000–1499)</strong></summary>
 1000:0,  Drop_M-357
@@ -471,17 +477,5 @@ https://www.survivethenights.net/changelog
 5508:0,  Drop_762RAmmoBox
 </details>
 
-```md
-## 📦 Ammunition Drops
-
-- **5500** — Drop_9mmAmmoBox  
-- **5501** — Drop_12GsgAmmoBox  
-- **5502** — Drop_18GsgAmmoBox  
-- **5503** — Drop_20GsgAmmoBox  
-- **5504** — Drop_45ACPAmmoBox  
-- **5505** — Drop_50AmmoBox  
-- **5506** — Drop_308RAmmoBox  
-- **5507** — Drop_556RAmmoBox  
-- **5508** — Drop_762RAmmoBox  
-
 Resources
+https://survivethenights.fandom.com/wiki/ItemIDs
