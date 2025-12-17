@@ -6,7 +6,7 @@ I'm trying to compile information for myself, to try making scenarios for the ga
 https://www.survivethenights.net/changelog
 
 # <summary><strong>Item IDs</strong></summary>
-<details> List not fully accurate. Click HERE to expand!
+### Item ID list not fully accurate, work in progress...
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
@@ -23,6 +23,8 @@ https://www.survivethenights.net/changelog
 [Vehicles (4250–4299)](#itemid-vehicle)
 
 [Ammunition (5500–5599)](#itemid-ammo)
+
+<..Click to Expand..>
 
 <a name="itemid-food"></a> 
 
