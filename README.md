@@ -5,8 +5,8 @@ I'm trying to compile information for myself, to try making scenarios for the ga
 
 https://www.survivethenights.net/changelog
 
-# Item IDs
-# <details><summary><strong>(... Click to expand!)</strong></summary>
+# <summary><strong>Item IDs</strong></summary>
+# <details>(... Click to expand! WIP Not fully accurate.)
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
@@ -26,8 +26,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-food"></a> 
 
-| ID | Drop ID |
-|----|---------|
+| ID | FOOD |
+|----|------|
 | 500 | Drop_Drink_WaterBottle_Dirty |
 | 501 | Drop_MRE |
 | 502 | Drop_Pot_Water_Clean |
@@ -223,7 +223,7 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-weapon"></a>
 
-| ID | Drop ID |
+| ID | WEAPONS |
 |----|---------|
 | 1000 | Drop_M-357 |
 | 1001 | Drop_ARG15 |
@@ -243,8 +243,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-tool"></a>
 
-| ID | Drop ID |
-|----|---------|
+| ID | TOOLS |
+|----|-------|
 | 1500 | Drop_Axe |
 | 1501 | Drop_BeamSword |
 | 1502 | Drop_CombatKnife |
@@ -267,8 +267,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-util"></a>
 
-| ID | Drop ID |
-|----|---------|
+| ID | UTIL |
+|----|------|
 | 2000 | Drop_CanOpener |
 | 2001 | Drop_DrawKnife |
 | 2002 | Drop_HandSaw |
@@ -389,8 +389,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-building"></a>
 
-| ID | Drop ID |
-|----|---------|
+| ID | BUILDING |
+|----|----------|
 | 3000 | Drop_BoxOfNails |
 | 3001 | Drop_BoxOfScrews |
 | 3002 | Drop_HaspAndStapleBoxStraight |
@@ -445,10 +445,10 @@ https://www.survivethenights.net/changelog
 | 3052 | Drop_LockKit_Crafted |
 | 3053 | Drop_CombinationLock_Crafted |
 
-<a name="itemid-deployable"></a>
+<a name="itemid-deploy"></a>
 
-| ID   | Drop ID |
-|------|---------|
+| ID   | DEPLOYABLES |
+|------|-------------|
 | 4000 | Drop_CementBag |
 | 4001 | Drop_Generator |
 | 4003 | Drop_TackleBox |
@@ -490,8 +490,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-vehicle"></a>
 
-| ID   | Drop ID |
-|------|---------|
+| ID   | VEHICLES |
+|------|----------|
 | 4250 | Drop_VehicleCricket |
 | 4251 | Drop_VehicleRV |
 | 4252 | Drop_Vehicle4x4 |
@@ -503,8 +503,8 @@ https://www.survivethenights.net/changelog
 
 <a name="itemid-ammo"></a>
 
-| ID   | Drop ID |
-|------|---------|
+| ID   | AMMO |
+|------|------|
 | 5500 | Drop_9mmAmmoBox |
 | 5501 | Drop_12GsgAmmoBox |
 | 5502 | Drop_18GsgAmmoBox |
