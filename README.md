@@ -9,12 +9,19 @@ https://www.survivethenights.net/changelog
 # <details><summary><strong>(... Click to expand!)</strong></summary>
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
+
 [Weapons (1000–1499)](#itemid-weapon)
+
 [Tools & Melee (1500–1999)](#itemid-tool)
+
 [Tools & Utilities (2000–2999)](#itemid-util)
+
 [Building & Crafting (3000–3999)](#itemid-building)
+
 [Deployables & Traps (4000–4249)](#itemid-deploy)
+
 [Vehicles (4250–4299)](#itemid-vehicle)
+
 [Ammunition (5500–5599)](#itemid-ammo)
 
 <a name="itemid-food"></a> 
