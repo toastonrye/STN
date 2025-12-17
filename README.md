@@ -8,9 +8,9 @@ The list is not fully accurate, a work in progress...
 <details><summary>ITEM ID List - Click HERE to expand!</summary>
 
 <pre>This sets user to admin rank, gives an ARG15 and 2 boxes of 5.56mm ammo.
-``` /setrank toastonrye 2
+	/setrank toastonrye 2
 	/give 1001
-	/give 5507:2 ```
+	/give 5507:2
 </pre>
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
