@@ -204,7 +204,7 @@ https://www.survivethenights.net/changelog
 | 801 | Drop_Watermelon |
 | 802 | Drop_Pineapple |
 
-</details>
+
 <summary><strong>🔫 Weapons (1000–1499)</strong></summary>
 
 | ID | Drop ID |
@@ -224,7 +224,7 @@ https://www.survivethenights.net/changelog
 | 1012 | Drop_Crossbow |
 | 1013 | Drop_FlareGun |
 | 1014 | Drop_MK4 |
-</details>
+
 
 <summary><strong>🛠 Tools & Melee (1500–1999)</strong></summary>
 
@@ -250,7 +250,7 @@ https://www.survivethenights.net/changelog
 | 1520 | Drop_Shovel |
 | 1999 | Drop_WaterContainer |
 
-</details>
+
 <summary><strong>🧰 Tools & Utilities (2000–2999)</strong></summary>
 
 | ID | Drop ID |
@@ -373,7 +373,7 @@ https://www.survivethenights.net/changelog
 | 2606 | Drop_Keycard_Armory |
 | 2607 | Drop_Keycard_Prison |
 
-</details>
+
 <summary><strong>🏗 Building & Crafting (3000–3999)</strong></summary>
 
 | ID | Drop ID |
@@ -432,7 +432,7 @@ https://www.survivethenights.net/changelog
 | 3052 | Drop_LockKit_Crafted |
 | 3053 | Drop_CombinationLock_Crafted |
 
-</details>
+
 <summary><strong>🔥 Deployables & Traps (4000–4249)</strong></summary>
 
 | ID   | Drop ID |
@@ -476,7 +476,7 @@ https://www.survivethenights.net/changelog
 | 4044 | Drop_Barricade_Wood_Fence |
 | 4045 | Drop_Barricade_Spikes_Weak |
 
-</details>
+
 <summary><strong>🚗 Vehicles (4250–4299)</strong></summary>
 
 | ID   | Drop ID |
@@ -490,7 +490,7 @@ https://www.survivethenights.net/changelog
 | 4256 | Drop_VehiclePickup_flatbed |
 | 4257 | Drop_PrisonBus |
 
-</details>
+
 <summary><strong>📦 Ammunition (5500–5599)</strong></summary>
 
 | ID   | Drop ID |
@@ -506,6 +506,7 @@ https://www.survivethenights.net/changelog
 | 5508 | Drop_762RAmmoBox |
 
 </details>
+
 
 Resources
 https://survivethenights.fandom.com/wiki/ItemIDs
