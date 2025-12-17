@@ -4,9 +4,17 @@ Survive the Nights - Personal wiki for the game!
 I'm trying to compile information for myself, to try making scenarios for the game, some of info is not correct.
 
 https://www.survivethenights.net/changelog
+## Item IDs
+### List not fully accurate, work in progress...
 
-# <summary><strong>Item IDs</strong></summary>
-### Item ID list not fully accurate, work in progress...
+<pre> <details> <summary>Give Item Commands</summary> 
+This sets user to admin rank and gives
+``` /setrank toastonrye 2
+	/give 1001
+	/give 5507:2 ```
+</details> </pre>
+
+<details><summary>Click HERE to expand item id list.</summary>
 
 [Food, Drink & Medical Drops (500–899)](#itemid-food)
 
@@ -23,8 +31,6 @@ https://www.survivethenights.net/changelog
 [Vehicles (4250–4299)](#itemid-vehicle)
 
 [Ammunition (5500–5599)](#itemid-ammo)
-
-<details> Click HERE to expand Item ID list!
 
 <a name="itemid-food"></a> 
 
