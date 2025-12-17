@@ -24,7 +24,7 @@ https://www.survivethenights.net/changelog
 
 [Ammunition (5500–5599)](#itemid-ammo)
 
-<..Click to Expand..>
+<details> Click HERE to expand Item ID list!
 
 <a name="itemid-food"></a> 
 
