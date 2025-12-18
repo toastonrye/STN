@@ -1,9 +1,7 @@
-# STN - Survive the Nights
+# STN - Survive the Nights Game Wiki
 
 I'm trying to compile some game information for myself, for creating game scenarios.
 
-# Resources
+Please see the Wiki: https://github.com/toastonrye/STN/wiki
 
-https://www.survivethenights.net/changelog
-
-https://survivethenights.fandom.com/wiki/ItemIDs
+https://store.steampowered.com/app/541300/Survive_the_Nights/
